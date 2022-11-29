@@ -1,3 +1,6 @@
+var startBtn = document.querySelector(".start-btn")
+var nextBtn = document.querySelector(".next-btn")
+
 var questions = [
     {
         prompt: "What is the 16th letter in the alphabet?\n(a) n\n\(b) p\n(c) o",
@@ -20,3 +23,6 @@ var questions = [
         answer: "a"
     }
 ]
+
+var score = 0; 
+

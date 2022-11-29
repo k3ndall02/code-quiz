@@ -16,7 +16,8 @@ body {
 }
 
 .container {
-    background-color: blueviolet;
+    background-color:#417a08;
+    border-radius: 7px;
     height: 20%;
     max-width: 85%;
     width: 300px;
